@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyejiyang&layout=compact&theme=dark)
 
 
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://velog.io/@sinaji/series)
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://velog.io/@sinaji/series")
 
 <!--
 **heyejiyang/heyejiyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
