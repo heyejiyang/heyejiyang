@@ -1,5 +1,7 @@
 ## 👩‍💻
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&animation=fadeIn&height=150&section=header&text=heyeji&fontSize=90" />
+
 ![heyejiyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyejiyang&show_icons=true&theme=tokyonight)
 
 
