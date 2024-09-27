@@ -13,7 +13,7 @@ Github Readme
 
 #### 학술연구논문관리 플랫폼 NonNull
 배포 서버 URL
-&nbsp;&nbsp;http://nonnull.life:6006/
+&nbsp;&nbsp;[http://nonnull.life:6006/](http://nonnull.life/)
 
 Github Readme
 &nbsp;&nbsp;https://github.com/project34plus
