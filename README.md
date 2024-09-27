@@ -9,8 +9,8 @@
 
 
 
-학술연구논문관리 플랫폼 NonNull
-## 배포 서버 URL
+#### 학술연구논문관리 플랫폼 NonNull
+배포 서버 URL
 &nbsp;&nbsp;http://nonnull.life/
 
 <!--
