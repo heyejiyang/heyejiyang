@@ -5,8 +5,6 @@
 ![heyejiyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyejiyang&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyejiyang&layout=compact&theme=dark)
-
 #### 농촌 체험 예약 플랫폼 Farmstival
 Github Readme
 &nbsp;&nbsp;https://github.com/farmstival
